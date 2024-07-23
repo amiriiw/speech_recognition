@@ -2,8 +2,8 @@
 Snake game with **tensorflow speech recognition** method for control the **movement** of the snake.
 
 #### in this project we use below libraries: 
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
+<a href="https://github.com/amiriiw"><img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=013243"></a>
+<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor="></a>
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
@@ -19,6 +19,7 @@ Snake game with **tensorflow speech recognition** method for control the **movem
   - point: if you dont have strong system train the model in colab or jupyter.
 
 3- after train the model run the speech_recgnition_game.py and play the game.
+  - warning: If you encounter false detections while running the program, it is likely that the volume of your microphone is too high, reduce it so that the ambient noise does not cause wrong detection.
 
 ### offer: 
 Read the md files to get good information about the libraries used.
