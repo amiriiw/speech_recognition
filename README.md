@@ -2,13 +2,14 @@
 Snake game with **tensorflow speech recognition** method for control the **movement** of the snake.
 
 #### in this project we use below libraries: 
-<a href="https://github.com/amiriiw"><img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=013243"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor="></a>
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
+<a href="https://github.com/amiriiw"><img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=f5f5f5"></a>
+<a href="https://github.com/amiriiw"><img alt="sounddevice" src="https://img.shields.io/badge/sounddevice-0F131E?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="threading" src="https://img.shields.io/badge/threading-A9792B?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="pathlib" src="https://img.shields.io/badge/pathlib-19E57F?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="random" src="https://img.shields.io/badge/random-0928FF?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="pygame" src="https://img.shields.io/badge/pygame-FAAB00?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="queue" src="https://img.shields.io/badge/queue-FF4F8B?style=for-the-badge"></a>
 
 ## How you should use the src:
 **waring: its good to read the src one time by your self.**
