@@ -1,5 +1,5 @@
 # speech_recognition
-Snake game with tensorflow speech recognition method for control the movement of the snake.
+Snake game with **tensorflow speech recognition** method for control the **movement** of the snake.
 
 #### in this project we use below libraries: 
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
