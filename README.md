@@ -23,7 +23,7 @@ The following libraries are used in this project:
 
 ## Detailed Explanation
 
-### speech_recognition_model_trainer.py
+### `speech_recognition_model_trainer.py`
 
 This script is the core of the project, responsible for training the speech recognition model. The key components of the script are:
 
@@ -36,7 +36,7 @@ This script is the core of the project, responsible for training the speech reco
   - **evaluate_model() Method**: Evaluates the model's performance on the test set.
 - **ExportModel Class**: This class is used to export the trained model for inference. It includes methods to preprocess audio data and make predictions using the trained model.
 
-### speech_recognition_game.py
+### `speech_recognition_game.py`
 
 This script integrates the trained model with a real-time game controlled by voice commands. The key components of the script are:
 
@@ -68,8 +68,8 @@ To use this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/amiriiw/speech_recognition_project
-    cd speech_recognition_project
+    git clone https://github.com/amiriiw/speech_recognition
+    cd speech_recognition
     ```
 
 2. Install the required libraries:
