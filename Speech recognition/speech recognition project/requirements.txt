@@ -1,8 +1,0 @@
-numpy
-queue
-random
-pygame
-pathlib
-threading
-tensorflow
-sounddevice
